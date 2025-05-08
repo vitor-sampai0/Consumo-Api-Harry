@@ -40,7 +40,7 @@ export default function Home() {
     <SafeAreaView style={styles.container}>
 
       {/* Título da tela */}
-      <Text style={styles.header}>🎥 Filmes Studio Ghibli</Text>
+      <Text style={styles.header}>⚡ Personagens Harry Potter</Text>
 
       {/* Se estiver carregando, mostra os Skeletons */}
       {loading ? (
